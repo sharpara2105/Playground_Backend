@@ -1,4 +1,5 @@
-
+//simulating the database and network connection behavior here because they will be returning the
+//result with some time lag, hence it's important to understand the async operations.
 console.log("before");
 
 // *******************handling with callbacks****************************************

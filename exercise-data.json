@@ -1,0 +1,7 @@
+[
+  {"_id":"5a68fdc3615eda645bc6bdec","tags":["clothing","shirt"],"date":"2020-01-24T21:42:27.388Z","product_name":"unicorn_fitness","product_code":"1003","price":1500},
+  {"_id":"5a68fdd7bee8ea64649c2777","tags":["clothing","t-shirt"],"date":"2020-01-24T21:42:47.912Z","product_name":"vibes","product_code":"1004","price":2000},
+  {"_id":"5a68fde3f09ad7646ddec17e","tags":["footwear","shoes"],"date":"2020-01-24T21:42:59.605Z","product_name":"long boots","product_code":"1005","price":1500},
+  {"_id":"5a68fdf95db93f6477053ddd","tags":["apparels","belt"],"date":"2020-01-24T21:43:21.589Z","product_name":"louis vitton","product_code":"1006","price":1000},
+  {"_id":"5a68fe2142ae6a6482c4c9cb","tags":["apparels","hat"],"date":"2020-01-24T21:44:01.075Z","product_name":"fenty beauty","product_code":"1007","price":1200}
+]
